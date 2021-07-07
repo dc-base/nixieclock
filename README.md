@@ -6,4 +6,4 @@ Arduino code, Gerbers, and stl for housing included.
 
 Motion sensor using arduino ADC planned. 
 
-Flyback converter design in progress to replace boost converter module.
+Boost converter design in progress to replace counter based converter module.
